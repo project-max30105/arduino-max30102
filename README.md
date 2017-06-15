@@ -1,5 +1,3 @@
-
-test
 - **硬件部分完整教程（包括元件采购）：** [Sparkfun官方关于MAX30105传感器的使用教程（我们目前有30102）](https://learn.sparkfun.com/tutorials/max30105-particle-and-pulse-ox-sensor-hookup-guide)
 - [Git的使用](/git_guide.md)
 
